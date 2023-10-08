@@ -1,1 +1,2 @@
 Created test1.txt file as part of github examples.
+Adding new line to denote changes
